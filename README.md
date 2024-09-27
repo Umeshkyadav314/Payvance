@@ -12,7 +12,8 @@
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
   </div>
 
-  <h3 align="center">A Payvance Bank Application</h3>
+  <h3 align="center">Payvance : <span>A banking and finance management platform Application</span> </h3>
+  <p>This project features an ultra-secure SSR authentication system with Plaid integration for linking multiple bank accounts. Users can view a comprehensive overview of their finances, access transaction history with filtering options, and transfer funds seamlessly with Dwolla, all in a highly responsive and user-friendly interface.</p>
 
 </div>
 
@@ -42,21 +43,23 @@
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Authentication**: An ultra-secure SSR authentication with proper validations and authorization
+Authentication: An ultra-secure SSR authentication with proper validations and authorization
 
-👉 **Connect Banks**: Integrates with Plaid for multiple bank account linking
+Connect Banks: Integrates with Plaid for multiple bank account linking
 
-👉 **Home Page**: Shows general overview of user account with total balance from all connected banks, recent transactions, money spent on different categories, etc
+Home Page: Shows general overview of user account with total balance from all connected banks, recent transactions, money spent on different categories, etc
 
-👉 **My Banks**: Check the complete list of all connected banks with respective balances, account details
+My Banks: Check the complete list of all connected banks with respective balances, account details
 
-👉 **Transaction History**: Includes pagination and filtering options for viewing transaction history of different banks
+Transaction History: Includes pagination and filtering options for viewing transaction history of different banks
 
-👉 **Real-time Updates**: Reflects changes across all relevant pages upon connecting new bank accounts.
+Real-time Updates: Reflects changes across all relevant pages upon connecting new bank accounts.
 
-👉 **Funds Transfer**: Allows users to transfer funds using Dwolla to other accounts with required fields and recipient bank ID.
+Funds Transfer: Allows users to transfer funds using Dwolla to other accounts with required fields and recipient bank ID.
 
-👉 **Responsiveness**: Ensures the application adapts seamlessly to various screen sizes and devices, providing a consistent user experience across desktop, tablet, and mobile platforms.
+Responsiveness: Ensures the application adapts seamlessly to various screen sizes and devices, providing a consistent user experience across desktop, tablet, and mobile platforms.
+
+and many more, including code architecture and reusability.
 
 and many more, including code architecture and reusability. 
 
