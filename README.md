@@ -13,7 +13,7 @@
   </div>
 
   <h3 align="center"> ⚙️ Payvance : <span>A banking and finance management Web Application</span> </h3>
-  <p>This project features an ultra-secure SSR authentication system with Plaid integration for linking multiple bank accounts.</p><p> Users can view a comprehensive overview of their finances, access transaction history with filtering options, and transfer funds seamlessly with Dwolla, all in a highly responsive and user-friendly interface.</p>
+  <p>This project features an ultra-secure SSR authentication system with Plaid integration for linking multiple bank accounts. Users can view a comprehensive overview of their finances, access transaction history with filtering options, and transfer funds seamlessly with Dwolla, all in a highly responsive and user-friendly interface.</p>
 
 </div>
 
